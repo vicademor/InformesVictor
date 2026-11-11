@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "puesto": "Desarrollador Android Junior",
+    "empresa": "TecnoLevante",
+    "ciudad": "Valencia",
+    "salario": 21000
+  },
+  {
+    "id": 2,
+    "puesto": "Programador Kotlin Junior",
+    "empresa": "AppSoluciones",
+    "ciudad": "Valencia",
+    "salario": 22000
+  },
+  {
+    "id": 3,
+    "puesto": "Tecnico de Soporte",
+    "empresa": "InfoAula",
+    "ciudad": "Valencia",
+    "salario": 18000
+  },
+  {
+    "id": 4,
+    "puesto": "Desarrollador Web Junior",
+    "empresa": "PixelSoft",
+    "ciudad": "Valencia",
+    "salario": 20000
+  },
+  {
+    "id": 5,
+    "puesto": "Analista Programador Junior",
+    "empresa": "DatosPlus",
+    "ciudad": "Valencia",
+    "salario": 23000
+  },
+  {
+    "id": 6,
+    "puesto": "Desarrollador Android Junior",
+    "empresa": "MovilData",
+    "ciudad": "Madrid",
+    "salario": 24000
+  },
+  {
+    "id": 7,
+    "puesto": "Programador Java Junior",
+    "empresa": "NubeCentro",
+    "ciudad": "Madrid",
+    "salario": 23000
+  },
+  {
+    "id": 8,
+    "puesto": "Tecnico QA Junior",
+    "empresa": "TestLab",
+    "ciudad": "Madrid",
+    "salario": 21000
+  },
+  {
+    "id": 9,
+    "puesto": "Desarrollador Backend Junior",
+    "empresa": "ServidorPro",
+    "ciudad": "Madrid",
+    "salario": 25000
+  },
+  {
+    "id": 10,
+    "puesto": "Programador Full Stack Junior",
+    "empresa": "CodigoClaro",
+    "ciudad": "Madrid",
+    "salario": 26000
+  },
+  {
+    "id": 11,
+    "puesto": "Desarrollador Android Junior",
+    "empresa": "CostaApps",
+    "ciudad": "Alicante",
+    "salario": 20000
+  },
+  {
+    "id": 12,
+    "puesto": "Programador Kotlin Junior",
+    "empresa": "MarDigital",
+    "ciudad": "Alicante",
+    "salario": 21000
+  },
+  {
+    "id": 13,
+    "puesto": "Tecnico de Sistemas Junior",
+    "empresa": "RedLocal",
+    "ciudad": "Alicante",
+    "salario": 19000
+  },
+  {
+    "id": 14,
+    "puesto": "Desarrollador Web Junior",
+    "empresa": "WebCosta",
+    "ciudad": "Alicante",
+    "salario": 20500
+  },
+  {
+    "id": 15,
+    "puesto": "Analista de Datos Junior",
+    "empresa": "DataMar",
+    "ciudad": "Alicante",
+    "salario": 22500
+  }
+]
